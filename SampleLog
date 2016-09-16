@@ -1,0 +1,11 @@
+2015-08-06 11:16:41,790 WARN  http-0.0.0.0-8443-42 com.urbancode.commons.web.filter.ExceptionHandlingFilter - A client cancelled a request before the response was sent: /rest/deploy/componentProcessRequest/table
+2015-08-06 11:18:30,921 INFO  RepoIntegration com.urbancode.ds.plugin.source.SourceConfigExecutionService - A version import could not complete on component Component#d4b355a5-14b3-4b4e-b5e9-73d09affd945 (sfdc-ant-comp)
+2015-08-06 11:21:11,387 WARN  http-0.0.0.0-8443-9 com.urbancode.air.devilfish.apps.plugin.PluginRuntimeClient - Unable to cancel step: no such dialogue: 0c22bd41-a558-4c40-bca9-2daccafacbd5
+2015-08-06 11:23:14,870 INFO  RepoIntegration com.urbancode.ds.plugin.source.SourceConfigExecutionService - A version import could not complete on component Component#d4b355a5-14b3-4b4e-b5e9-73d09affd945 (sfdc-ant-comp)
+2015-08-06 11:27:29,397 INFO  RepoIntegration com.urbancode.ds.plugin.source.SourceConfigExecutionService - A version import could not complete on component Component#d4b355a5-14b3-4b4e-b5e9-73d09affd945 (sfdc-ant-comp)
+2015-08-06 11:31:51,741 INFO  RepoIntegration com.urbancode.ds.plugin.source.SourceConfigExecutionService - A version import could not complete on component Component#d4b355a5-14b3-4b4e-b5e9-73d09affd945 (sfdc-ant-comp)
+2015-08-06 11:36:13,526 INFO  RepoIntegration com.urbancode.ds.plugin.source.SourceConfigExecutionService - A version import could not complete on component Component#d4b355a5-14b3-4b4e-b5e9-73d09affd945 (sfdc-ant-comp)
+2015-08-06 11:37:34,132 ERROR http-0.0.0.0-8443-4 com.urbancode.commons.util.crypto.algs.Crypt1Alg - Did not find any decoding key for name desedekeyaoop
+2015-08-06 11:40:33,243 INFO  RepoIntegration com.urbancode.ds.plugin.source.SourceConfigExecutionService - A version import could not complete on component Component#d4b355a5-14b3-4b4e-b5e9-73d09affd945 (sfdc-ant-comp)
+2015-08-06 11:44:39,522 INFO  RepoIntegration com.urbancode.ds.plugin.source.SourceConfigExecutionService - A version import could not complete on component Component#d4b355a5-14b3-4b4e-b5e9-73d09affd945 (sfdc-ant-comp)
+2015-08-06 11:48:19,779 ERROR http-0.0.0.0-8443-36 com.urbancode.ds.web.util.UCDExceptionMapper - Script with name getVersionStatus already exists!
